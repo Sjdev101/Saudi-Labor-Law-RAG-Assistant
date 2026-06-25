@@ -256,7 +256,7 @@ Grounded Answer
 
 This project is intended for educational and portfolio purposes only.
 
-The generated responses should not be considered legal advice. Users should always verify information against the official Saudi Labor Law and consult qualified legal professionals where appropriate.
+The generated responses should not be considered legal advice. Users should always verify information against the official [Saudi Labor Law](https://www.hrsd.gov.sa/sites/default/files/2023-02/Labor.pdf) and consult qualified legal professionals where appropriate.
 
 ---
 
@@ -274,7 +274,7 @@ This project is licensed under the MIT License.
 * AI & Machine Learning Enthusiast
 * Interested in Retrieval-Augmented Generation (RAG), NLP, and AI Systems
 
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+GitHub: https://github.com/Sjdev101
 
 ---
 
